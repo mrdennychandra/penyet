@@ -1,0 +1,5 @@
+http://getbootstrap.com/docs/3.3/
+https://rvera.github.io/image-picker/
+https://github.com/DASPRiD/Bootstrap-DatePicker
+http://printjs.crabbly.com/
+https://github.com/thdoan/bootstrap-select
