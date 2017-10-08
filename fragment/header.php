@@ -8,11 +8,14 @@
         <link rel="stylesheet" href="<?= BASEPATH ?>/assets/image-picker/image-picker.css">
         <link rel="stylesheet" href="<?= BASEPATH ?>/assets/printjs/print.min.css">
         <link rel="stylesheet" href="<?= BASEPATH ?>/assets/bootstrap-select/bootstrap-select.css">
+        <link rel="stylesheet" href="<?= BASEPATH ?>/assets/bootstrap-datepicker/bootstrap-datepicker.css">
         <script type="text/javascript" src="<?= BASEPATH ?>/assets/scripts/jquery-3.2.1.min.js"></script>
         <script type="text/javascript" src="<?= BASEPATH ?>/assets/bootstrap/js/bootstrap.min.js"></script>
         <script type="text/javascript" src="<?= BASEPATH ?>/assets/image-picker/image-picker.js"></script>
         <script type="text/javascript" src="<?= BASEPATH ?>/assets/printjs/print.min.js"></script>
         <script type="text/javascript" src="<?= BASEPATH ?>/assets/bootstrap-select/bootstrap-select.js"></script>
+        <script type="text/javascript" src="<?= BASEPATH ?>/assets/moment-with-langs.min.js"></script>
+        <script type="text/javascript" src="<?= BASEPATH ?>/assets/bootstrap-datepicker/bootstrap-datepicker.js"></script>
     </head>
     <body class="container">
         <p></p>
